@@ -106,6 +106,7 @@ header h2 {
     height: 220px;
     object-fit: cover;
     border-radius: 50%;
+    border: 5px solid white;
 }
 
 .education,
